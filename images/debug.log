@@ -1,0 +1,2 @@
+[1120/063044.649:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Shaharear rohman\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f1103411-7c17-49c9-9ed7-4752fea2e35a: The system cannot find the path specified. (0x3)
+[1120/063539.581:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
